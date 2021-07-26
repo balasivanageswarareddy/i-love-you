@@ -1,0 +1,154 @@
+[33mcommit 637f1df1bc692befd52ba34d617f2406701a0112[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: anusha <anusha@gmail.com>
+Date:   Mon Jul 26 20:17:38 2021 +0530
+
+    modified
+
+[33mcommit e21d0bbc3490f2f3cb70e39c74820e401e322973[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: anusha <anusha@gmail.com>
+Date:   Mon Jul 26 20:07:47 2021 +0530
+
+    Revert "add"
+    
+    This reverts commit 9f615f62389abae84108768e5f70d8a03e6a9807.
+
+[33mcommit 9f615f62389abae84108768e5f70d8a03e6a9807[m
+Author: anusha <anusha@gmail.com>
+Date:   Mon Jul 26 20:05:20 2021 +0530
+
+    add
+
+[33mcommit 852e43dec2f2c71a254331b5ec21902eea6951eb[m
+Merge: bdc53a6 37e26c5
+Author: balasivanageswarareddy <43957481+balasivanageswarareddy@users.noreply.github.com>
+Date:   Mon Jul 26 19:43:19 2021 +0530
+
+    Merge pull request #1 from balasivanageswarareddy/r-1.0
+    
+    R 1.0
+
+[33mcommit bdc53a6054025c13bac81171b6febf30c78ae9f6[m
+Author: anusha <anusha@gmail.com>
+Date:   Mon Jul 26 19:17:15 2021 +0530
+
+    tech
+
+[33mcommit 2de3f40be24d40790930d0b7e6e846f7d0ce695c[m
+Author: anusha <anusha@gmail.com>
+Date:   Mon Jul 26 19:06:42 2021 +0530
+
+    shaik
+
+[33mcommit 2b0f01fa8e6f4dde7f612c6204a8eeb28332c982[m
+Author: anusha <anusha@gmail.com>
+Date:   Mon Jul 26 19:06:31 2021 +0530
+
+    anu
+
+[33mcommit 37e26c508f308aa4a8680cd44a796afcf76f3693[m[33m ([m[1;31morigin/r-1.0[m[33m, [m[1;32mr-1.0[m[33m)[m
+Author: anusha <anusha@gmail.com>
+Date:   Mon Jul 26 08:36:41 2021 +0530
+
+    a to f
+
+[33mcommit 5629c7aabb6b76c2be79d03de0713e4fe73d9000[m
+Author: anusha <anusha@gmail.com>
+Date:   Mon Jul 26 08:29:51 2021 +0530
+
+    4
+
+[33mcommit 40dda7ec384770f91d2eacc8ce35f2feac5a9254[m
+Author: anusha <anusha@gmail.com>
+Date:   Mon Jul 26 08:25:00 2021 +0530
+
+    hi
+
+[33mcommit 702c47b62a2404e6e42850faaab011c5424f8d76[m
+Author: anusha <anusha@gmail.com>
+Date:   Mon Jul 26 08:22:21 2021 +0530
+
+    love-3
+
+[33mcommit d1f4795efe25ef6d26ea068183495f04833c1369[m
+Author: anusha <anusha@gmail.com>
+Date:   Mon Jul 26 08:21:25 2021 +0530
+
+    1-2
+
+[33mcommit 9cef8fcc488f96728211c5ae1331527002bef2c9[m
+Author: anusha <anusha@gmail.com>
+Date:   Mon Jul 26 08:17:10 2021 +0530
+
+    devops
+
+[33mcommit a2861894211f7b067745e23be41ed64c287c71e5[m
+Author: anusha <anusha@gmail.com>
+Date:   Mon Jul 26 08:11:51 2021 +0530
+
+    soft
+
+[33mcommit 58f779fb06c3a96ff2b76c6c12ee58a31584d247[m
+Author: anusha <anusha@gmail.com>
+Date:   Sun Jul 25 07:00:11 2021 +0530
+
+    sri
+
+[33mcommit 7978942c4af8c752b2dac10b794368f7f5586c95[m
+Author: anusha <anusha@gmail.com>
+Date:   Fri Jul 23 19:12:39 2021 +0530
+
+    12345
+
+[33mcommit 34985f15c6d26bb5b7ad390577fcaaa1cf02aad9[m
+Author: anusha <anusha@gmail.com>
+Date:   Fri Jul 23 08:51:33 2021 +0530
+
+    dd
+
+[33mcommit 605b9e20bdd8d8ed83ec25df7da83726d87adfeb[m
+Author: anusha <anusha@gmail.com>
+Date:   Fri Jul 23 08:49:00 2021 +0530
+
+    s
+
+[33mcommit 74f7e2d5e32684a8195b30655e0f4f8e46e78bbe[m
+Author: root <root@ip-172-31-81-41.ec2.internal>
+Date:   Thu May 2 15:10:29 2019 +0000
+
+    jj
+
+[33mcommit 6d2918133a234ade57eb26b159a157e9a5315656[m
+Author: root <root@ip-172-31-81-41.ec2.internal>
+Date:   Thu May 2 15:05:29 2019 +0000
+
+    guru
+
+[33mcommit 791837c9769bb0b1c7cbded133fae2df39a44e34[m
+Author: root <root@ip-172-31-81-41.ec2.internal>
+Date:   Thu May 2 15:00:16 2019 +0000
+
+    ooo
+
+[33mcommit 95773cc128df171728bf11deac8a22313208bbf3[m
+Author: root <root@ip-172-31-81-41.ec2.internal>
+Date:   Thu May 2 14:47:38 2019 +0000
+
+    dude
+
+[33mcommit 868dd18bbf0000b3377314665ef97034339a614f[m
+Author: sivareddy <sivareddy@gmail.com>
+Date:   Thu May 2 20:07:45 2019 +0530
+
+    hello
+
+[33mcommit 932efec638c7b82696c996ea88f558eb7d426d9c[m
+Author: sivareddy <sivareddy@gmail.com>
+Date:   Thu May 2 20:00:57 2019 +0530
+
+    nnn
+
+[33mcommit 2e7fe15dcd5d7949a5ab750eeeb4c503d3fdfd51[m
+Author: balasivanageswarareddy <43957481+balasivanageswarareddy@users.noreply.github.com>
+Date:   Thu May 2 19:56:18 2019 +0530
+
+    Initial commit
